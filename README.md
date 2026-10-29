@@ -21,6 +21,6 @@ State diagram:
 ![Even odd conseq00 state diagram](screenshots/part1_even_odd_conseq00_state_diagram.png)
 ## Part 2: Three Consecutive 1s or 0s Detector
 Simulation waveform:
-![Part 2 waveform](screenshots/part2_waveform.png)
+![Part 2 waveform](screenshots/consecwav.png)
 State diagram:
 ![Part 2 state diagram](screenshots/part2_state_diagram.png)
