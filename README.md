@@ -11,12 +11,12 @@
 ## Part 1: FSMs from Videos
 ### Dual Sequence Detector
 Simulation waveform:
-![Dual sequence detector waveform](screenshots/part1_dual_sequence_detector_waveform.png)
+![Dual sequence detector waveform](screenshots/dualsequencewav.png)
 State diagram:
 ![Dual sequence detector state diagram](screenshots/part1_dual_sequence_detector_state_diagram.png)
 ### Even/Odd Consecutive 00
 Simulation waveform:
-![Even odd conseq00 waveform](screenshots/part1_even_odd_conseq00_waveform.png)
+![Even odd conseq00 waveform](screenshots/evenoddwav.png)
 State diagram:
 ![Even odd conseq00 state diagram](screenshots/part1_even_odd_conseq00_state_diagram.png)
 ## Part 2: Three Consecutive 1s or 0s Detector
